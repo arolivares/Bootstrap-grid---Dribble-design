@@ -1,0 +1,11 @@
+.row{
+    justify-content: center;
+}
+
+.login{
+    justify-content: end;
+}
+
+.sign-up{
+    justify-content: end;
+}
