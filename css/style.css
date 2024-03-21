@@ -1,7 +1,44 @@
+*{
+    font: Arial Bold;
+}
 .row{
     justify-content: center;
-    margin-top: -5px;
+   
 }
+
+.card-text{
+    color: white;
+}
+
+h1{
+    max-width: 100%;
+    font-size: 5rem;
+    
+}
+
+.card{
+    margin-right: auto !important;
+    margin-left: auto !important;
+    background-color: #8e7bff;
+}
+
+.img-fluid{
+    width: 25%;
+    
+}
+
+.title {
+    font-size: 25px;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+.title p {
+    width: 50%;
+  }
+
+
 
 .login{
     justify-content: end;
@@ -12,12 +49,17 @@
 }
 
 .btn1{
-    background: rgb(165,109,235);
+    background: #8e7bff;
+    border-radius: 45px;
+    color: white;
+
 }
 
 .btn2{
-    background: rgb(41,255,173);
-
+    background: #80ea99;
+    color: black;
+    border-radius: 40px;
+ 
 }
 
 .cat{
