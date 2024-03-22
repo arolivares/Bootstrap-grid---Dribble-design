@@ -8,6 +8,8 @@
 
 .card-text{
     color: white;
+    
+    
 }
 
 h1{
@@ -20,12 +22,16 @@ h1{
     margin-right: auto !important;
     margin-left: auto !important;
     background-color: #8e7bff;
+  border-radius: 15px;
 }
+
+
 
 .img-fluid{
     width: 25%;
-    
+   
 }
+
 
 .title {
     font-size: 25px;
